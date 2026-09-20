@@ -1,6 +1,6 @@
 # mobileshalom-mcp
 
-A read-only [MCP](https://modelcontextprotocol.io) server that lets AI assistants (Claude, Cursor, etc.)
+A read-only [MCP](https://modelcontextprotocol.io) server that lets MCP client applications
 search and read articles from the [mobileShalom](https://mobileshalom.com) blog.
 
 It runs over **Streamable HTTP**, so it can be hosted at a public URL rather than run locally over stdio.
